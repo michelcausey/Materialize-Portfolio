@@ -1,0 +1,9 @@
+body {
+    background-image: url('./images/pow-star.png')
+}
+
+#hat-photo {
+    padding: 10px;
+    background-color: #212121;
+}
+
